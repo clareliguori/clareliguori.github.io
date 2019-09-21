@@ -1,20 +1,42 @@
 <div class="social">
-	<h4>
-    {% if site.github %}
-	  <a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>
-    {% endif %}
-    {% if site.email %}
-	  <a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a>
-    {% endif %}
-
-    {% if site.twitter %}
-	  <a href="http://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
-    {% endif %}
-    {% if site.linkedin %}
-	  <a href="http://linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>
-    {% endif %}
-    {% if site.stackoverflow %}
-	  <a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>
-    {% endif %}
-	</h4>
+{% if site.github %}
+    <div class="about-link-row">
+        <div class="about-link-title"><h3>Code</h3></div>
+        <div class="about-link-logo">
+            <a href="https://github.com/{{ site.github }}">
+                <img class="link-logo-img" src="{{ site.baseurl }}static/img/github.png" alt="GitHub">
+            </a>
+        </div>
+    </div>
+{% endif %}
+{% if site.youtube %}
+    <div class="about-link-row">
+        <div class="about-link-title"><h3>Talks</h3></div>
+        <div class="about-link-logo">
+            <a href="https://www.youtube.com/playlist?list={{ site.youtube }}">
+                <img class="link-logo-img" src="{{ site.baseurl }}static/img/youtube.png" alt="YouTube">
+            </a>
+        </div>
+    </div>
+{% endif %}
+{% if site.twitter %}
+    <div class="about-link-row">
+        <div class="about-link-title"><h3>Tweets</h3></div>
+        <div class="about-link-logo">
+            <a href="https://twitter.com/{{ site.twitter }}">
+                <img class="link-logo-img" src="{{ site.baseurl }}static/img/twitter.png" alt="Twitter">
+            </a>
+        </div>
+    </div>
+{% endif %}
+{% if site.linkedin %}
+    <div class="about-link-row">
+        <div class="about-link-title"><h3>Work</h3></div>
+        <div class="about-link-logo">
+            <a href="https://www.linkedin.com/in/{{ site.linkedin }}">
+                <img class="link-logo-img" src="{{ site.baseurl }}static/img/linkedin.png" alt="LinkedIn">
+            </a>
+        </div>
+    </div>
+{% endif %}
 </div>

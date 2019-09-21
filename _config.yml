@@ -13,15 +13,17 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://clareliguori.github.io/
 baseurl: /clareliguori-dot-com/
+sourceurl: https://github.com/clareliguori/clareliguori-dot-com
 title: Clare Liguori
 author: Clare Liguori
+authortitle: Software Engineer
 description: Personal website
 #avatar: profile.png
 email: hello@clareliguori.com
 github: clareliguori
 twitter: clare_liguori
 linkedin: clareliguori
-#stackoverflow: username   #e.g: users/2735833/proton1h1
+youtube: PLIF3k1ZrFvz15EXnfVR12qCbgfLqgG3Wa
 #Comment out if you don't want disqus
 #disqus: username
 google_analytics: UA-20185599-1
