@@ -110,6 +110,11 @@ body {
   margin-bottom: 10px;
   font-weight: 300;
 }
+.container h5 {
+  font-weight: 300;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
 .container .text-muted {
   margin: 20px 0;
 }
@@ -162,8 +167,8 @@ body {
 }
 .panel-default h5 {
   text-align: left;
-  line-height: 30px;
-  font-size: 18px;
+  line-height: 32px;
+  font-size: 20px;
 }
 .panel-default h6 {
   font-size: 15px;
@@ -176,10 +181,21 @@ body {
 }
 .panel{
   border-style: none;
+  margin-bottom: 25px;
 }
 .panel-body {
   padding-top: -10px;
   text-align: left;
+}
+.panel-body a {
+  text-decoration: underline;
+}
+.panel-body strong {
+  font-weight: 500;
+}
+.panel-body .fa-lg {
+  line-height: 32px;
+  vertical-align: top;
 }
 .social {
   padding-top: 12px;
