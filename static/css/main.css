@@ -4,17 +4,18 @@ html,
 body {
   height: 100%;
   background-color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27A822;
+  border-top: 3px solid #0f80c6;
 }
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
-  margin: 0 auto -65px;
+  margin: 0 auto -69px;
   /* Pad bottom by footer height */
   /*padding: 0 0 60px;*/
 }
@@ -40,6 +41,8 @@ body {
 }
 .navbar-default .navbar-nav > li > a {
   color: #6b6b6b;
+  font-size: 17px;
+  text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
@@ -92,15 +95,60 @@ body {
   max-width: 800px;
   text-align: center;
 }
+.container h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+  margin-bottom: 35px;
+}
+.container h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+}
+.container h3 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
 .container .text-muted {
   margin: 20px 0;
 }
 .container a {
-  color: #27A822;
+  color: #333333;
 }
 .container a:hover {
-  color: #267723;
+  color: #333333;
 }
+.container .text-muted a {
+  color: #0f80c6;
+}
+.container .text-muted a:hover {
+  color: #0f80c6;
+}
+
+.social {
+  margin: auto;
+  display: table;
+  border-spacing: 30px;
+}
+.social .about-link-row {
+  display: table-row;
+  font-size: 36px;
+  text-transform: uppercase;
+}
+.social .about-link-title {
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+}
+.social .about-link-logo {
+  display: table-cell;
+  text-align: left;
+  vertical-align: middle;
+}
+.social .link-logo-img {
+  width: 70px;
+}
+
 .img-responsive {
  display: block;
  height: auto;
@@ -120,10 +168,10 @@ body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #27A822;
+  color: #0f80c6;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #267723;
+  color: #0f80c6;
 }
 .panel{
   border-style: none;
@@ -164,7 +212,7 @@ body {
   font-size: 18px;
 }
 
-/* Footer 
+/* Footer
 -------------------------------------------------- */
 
 .footer {
@@ -172,13 +220,15 @@ body {
 }
 .text-muted {
 	color: #6b6b6b;
+  font-weight: 300;
+  font-size: 17px;
 }
 div.footer{
-  border-bottom: 5px solid #27A822;;
+  border-bottom: 5px solid #0f80c6;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/
