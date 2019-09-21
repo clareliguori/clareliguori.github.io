@@ -43,6 +43,7 @@ body {
   color: #6b6b6b;
   font-size: 17px;
   text-transform: uppercase;
+  text-align: left;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
