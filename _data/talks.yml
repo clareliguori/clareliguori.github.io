@@ -1,0 +1,46 @@
+- date: 2015-10-06
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: "DevOps at Amazon: A Look at Our Tools and Processes"
+  youtube: esEFaY0FDKc
+  slideshare: AmazonWebServices/dvo202-devops-at-amazon-a-look-at-our-tools-processes
+- date: 2018-11-27
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: CI/CD for Serverless and Containerized Applications
+  youtube: 01ewawuL-IY
+  slideshare: AmazonWebServices/cicd-for-serverless-and-containerized-applications-dev309r1-aws-reinvent-2018
+  github: aws-samples/aws-reinvent-2018-trivia-game
+- date: 2017-11-30
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: "Keynote: Introducing AWS Cloud9"
+  youtube: fwFoU_Wb-fU
+- date: 2018-11-26
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: Container Power Hour with Jess, Clare, and Abby
+  youtube: HCCkVz25UU4
+  slideshare: AmazonWebServices/container-power-hour-with-jess-clare-and-abby-con362-aws-reinvent-2018
+  github: clareliguori/clare-bot
+- date: 2017-11-28
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title:  Continuous Integration Best Practices for Software Development Teams
+  youtube: GEPJ7Lo346A
+  slideshare: AmazonWebServices/dev322continuous-integration-best-practices-for-software-development-teams
+  github: aws-samples/aws-codebuild-samples
+- date: 2017-11-29
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: "Remove Undifferentiated Heavy Lifting from Jenkins"
+- date: 2018-05-31
+  event: AWS Summits (Amsterdam & Berlin)
+  eventurl: https://aws.amazon.com/events/summits/
+  title: Improve Productivity with Continuous Integration & Delivery
+  slideshare: AmazonWebServices/improve-productivity-with-continuous-integration-delivery-99761304
+- date: 2019-03-23
+  event: Hopperx1 Seattle
+  eventurl: https://community.anitab.org/event/hopperx1-seattle/
+  title: "Don't Let Clients Get You Down: Fault-Tolerant Clients in Resilient Systems"
+  slideshare: clarerichardson/hopperx1-seattle-2019-dont-let-clients-get-you-down

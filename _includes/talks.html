@@ -1,0 +1,34 @@
+<section id="talks">
+<div class="container">
+<h3>Public Speaking</h3>
+  <div class="panel panel-default">
+    <div class="panel-body">
+		{% assign sorted_talks = (site.data.talks | sort: 'date') | reverse %}
+		{% for talk in sorted_talks %}
+			<div class="row">
+				 <div class="col-sm-2 col-md-2 col-lg-2">
+					 <h5 style="text-align: right">
+					 	{{ talk.date | date: "%B %e, %Y" }}
+					 </h5>
+				 </div>
+				 <div class="col-sm-10 col-md-10 col-lg-10">
+					 <h5 style="text-align: left">
+						 <strong>{{ talk.title }}</strong><br/>
+						 at <a href="{{ talk.eventurl }}">{{ talk.event }}</a>
+						 {% if talk.youtube %}
+								(<a href="https://youtu.be/{{ talk.youtube }}">video</a>)
+						 {% endif %}
+						 {% if talk.slideshare %}
+								(<a href="https://www.slideshare.net/{{ talk.slideshare }}">slides</a>)
+						 {% endif %}
+						 {% if talk.github %}
+								(<a href="https://github.com/{{ talk.github }}">code</a>)
+						 {% endif %}
+					 </h5>
+					</div>
+			</div>
+	    {% endfor %}
+	</div>
+  </div>
+</div>
+</section>
