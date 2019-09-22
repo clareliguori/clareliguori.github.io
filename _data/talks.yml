@@ -44,3 +44,8 @@
   eventurl: https://community.anitab.org/event/hopperx1-seattle/
   title: "Don't Let Clients Get You Down: Fault-Tolerant Clients in Resilient Systems"
   slideshare: clarerichardson/hopperx1-seattle-2019-dont-let-clients-get-you-down
+- date: 2018-10-09
+  event: Spinnaker Summit
+  eventurl: https://www.spinnakersummit.com/
+  title: "Spinnaker on AWS: Fargate demo"
+  github: clareliguori/spinnaker-ecs-devel/blob/master/DEMO.md
