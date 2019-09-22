@@ -131,6 +131,20 @@ body {
   color: #0f80c6;
 }
 
+#about-me h3 {
+  width: auto;
+  max-width: 600px;
+  margin: 25px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+#about-me a {
+  color: #0f80c6;
+}
+#about-me a:hover {
+  color: #0f80c6;
+}
+
 .social {
   margin: auto;
   display: table;
@@ -188,7 +202,10 @@ body {
   text-align: left;
 }
 .panel-body a {
-  text-decoration: underline;
+  color: #0f80c6;
+}
+.panel-body a:hover {
+  color: #0f80c6;
 }
 .panel-body strong {
   font-weight: 500;
