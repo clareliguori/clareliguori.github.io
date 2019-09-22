@@ -11,9 +11,9 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://clareliguori.github.io/
-baseurl: /clareliguori-dot-com/
-sourceurl: https://github.com/clareliguori/clareliguori-dot-com
+url: https://www.clareliguori.com
+baseurl: /
+sourceurl: https://github.com/clareliguori/clareliguori.github.io
 title: Clare Liguori
 author: Clare Liguori
 authortitle: Principal Software Engineer
