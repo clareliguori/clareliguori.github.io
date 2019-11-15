@@ -49,3 +49,8 @@
   eventurl: https://www.spinnakersummit.com/
   title: "Spinnaker on AWS: Fargate demo"
   github: clareliguori/spinnaker-ecs-devel/blob/master/DEMO.md
+- date: 2019-11-14
+  event: GitHub Universe
+  eventurl: https://githubuniverse.com/
+  title: "Keynote: Deploy to AWS Container Services with GitHub Actions"
+  youtube: VnaK_ONmtC4?t=2881
