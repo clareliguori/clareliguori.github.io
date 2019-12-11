@@ -54,3 +54,13 @@
   eventurl: https://githubuniverse.com/
   title: "Keynote: AWS Code to Cloud with GitHub Actions"
   youtube: palvC7yPNu0
+- date: 2019-12-02
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: Best practices for CI/CD using AWS Fargate and Amazon ECS
+  youtube: 7FVK0i9edyg
+- date: 2019-12-05
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: "Keynote: Fargate and Firecracker"
+  youtube: OdzaTbaQwTg?t=1272
