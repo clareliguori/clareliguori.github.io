@@ -24,6 +24,9 @@
 						 {% if talk.github %}
 								(<a href="https://github.com/{{ talk.github }}">code</a>)
 						 {% endif %}
+						 {% for link in talk.links %}
+						 		(<a href="{{ link.url }}">{{ link.label }}</a>)
+						 {% endfor %}
 					 </h5>
 					</div>
 			</div>

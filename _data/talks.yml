@@ -59,6 +59,9 @@
   eventurl: https://reinvent.awsevents.com
   title: Best practices for CI/CD using AWS Fargate and Amazon ECS
   youtube: 7FVK0i9edyg
+  links:
+    - url: https://d1.awsstatic.com/events/reinvent/2019/REPEAT_2_Best_practices_for_CICD_using_AWS_Fargate_and_Amazon_ECS_CON333-R2.pdf
+      label: slides
 - date: 2019-12-05
   event: AWS re:Invent
   eventurl: https://reinvent.awsevents.com
