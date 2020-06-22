@@ -14,18 +14,18 @@
 				 <div class="col-sm-10 col-md-10 col-lg-10">
 					 <h5 style="text-align: left">
 						 <strong>{{ talk.title }}</strong><br/>
-						 at <a href="{{ talk.eventurl }}">{{ talk.event }}</a>
+						 at <a href="{{ talk.eventurl }}" target="_blank">{{ talk.event }}</a>
 						 {% if talk.youtube %}
-								(<a href="https://youtu.be/{{ talk.youtube }}">video</a>)
+								(<a href="https://youtu.be/{{ talk.youtube }}" target="_blank">video</a>)
 						 {% endif %}
 						 {% if talk.slideshare %}
-								(<a href="https://www.slideshare.net/{{ talk.slideshare }}">slides</a>)
+								(<a href="https://www.slideshare.net/{{ talk.slideshare }}" target="_blank">slides</a>)
 						 {% endif %}
 						 {% if talk.github %}
-								(<a href="https://github.com/{{ talk.github }}">code</a>)
+								(<a href="https://github.com/{{ talk.github }}" target="_blank">code</a>)
 						 {% endif %}
 						 {% for link in talk.links %}
-						 		(<a href="{{ link.url }}">{{ link.label }}</a>)
+						 		(<a href="{{ link.url }}" target="_blank">{{ link.label }}</a>)
 						 {% endfor %}
 					 </h5>
 					</div>
