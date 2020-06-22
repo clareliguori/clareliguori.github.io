@@ -1,0 +1,25 @@
+<section id="writing">
+<div class="container">
+<h3>Writing</h3>
+  <div class="panel panel-default">
+    <div class="panel-body">
+		{% assign sorted_articles = (site.data.articles | sort: 'date') | reverse %}
+		{% for article in sorted_articles %}
+			<div class="row">
+				 <div class="col-sm-2 col-md-2 col-lg-2">
+					 <h5 style="text-align: left">
+					 	{{ article.date | date: "%B %e, %Y" }}
+					 </h5>
+				 </div>
+				 <div class="col-sm-10 col-md-10 col-lg-10">
+					 <h5 style="text-align: left">
+						 <strong>{{ article.title }}</strong><br/>
+						 on {{ article.site }} (<a href="{{ article.link }}">link</a>)
+					 </h5>
+					</div>
+			</div>
+	    {% endfor %}
+	</div>
+  </div>
+</div>
+</section>
