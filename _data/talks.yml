@@ -67,3 +67,8 @@
   eventurl: https://reinvent.awsevents.com
   title: "Keynote: AWS Fargate Under the Hood"
   youtube: OdzaTbaQwTg?t=1272
+- date: 2020-06-18
+  event: Spinnaker.Live
+  eventurl: https://events.linuxfoundation.org/spinnaker-live/
+  title: "Fast & Fearless Panel: Achieving Speed Because of Safety"
+  youtube: 1W23b5zj4xA
