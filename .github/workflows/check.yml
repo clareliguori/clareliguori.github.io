@@ -13,5 +13,3 @@ jobs:
     - run: |
         bundle install
         jekyll build
-      env:
-        NOKOGIRI_USE_SYSTEM_LIBRARIES: true
