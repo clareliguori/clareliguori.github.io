@@ -4,7 +4,6 @@
 # Jekyll build
 /_site/
 .jekyll-metadata
-Gemfile.lock
 
 # webstorm
 .idea/
