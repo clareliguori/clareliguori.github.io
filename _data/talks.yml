@@ -72,3 +72,7 @@
   eventurl: https://events.linuxfoundation.org/spinnaker-live/
   title: "Fast & Fearless Panel: Achieving Speed Because of Safety"
   youtube: 1W23b5zj4xA
+- date: 2020-12-02
+  event: AWS re:Invent
+  eventurl: https://reinvent.awsevents.com
+  title: "Hands-off: Automating continuous delivery pipelines at Amazon"
