@@ -77,3 +77,10 @@
   eventurl: https://reinvent.awsevents.com
   title: "Hands-off: Automating continuous delivery pipelines at Amazon"
   youtube: ngnMj1zbMPY
+- date: 2021-02-05
+  event: Engine Yard's Steam Powered Podcast
+  eventurl: https://open.spotify.com/show/36R7Ejv9YpgiK8FlNfDaBO
+  title: "A Discussion with Clare Liguori from AWS Container Services"
+  links:
+    - url: https://open.spotify.com/episode/5RStgUxaYqlLFrDCFvmQ43
+      label: episode
