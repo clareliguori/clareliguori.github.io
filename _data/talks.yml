@@ -84,3 +84,10 @@
   links:
     - url: https://open.spotify.com/episode/5RStgUxaYqlLFrDCFvmQ43
       label: episode
+- date: 2021-02-22
+  event: InfoQ Podcast
+  eventurl: https://www.infoq.com/the-infoq-podcast/
+  title: "Clare Liguori on Automating Safe and Hands-Off Deployments at AWS"
+  links:
+    - url: https://www.infoq.com/podcasts/aws-deployments
+      label: episode
