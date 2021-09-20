@@ -108,11 +108,13 @@ body {
 .container h3 {
   margin-top: 5px;
   margin-bottom: 10px;
+  font-family: 'Oswald', sans-serif;
   font-weight: 300;
 }
 .container h5 {
-  font-weight: 300;
-  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
   margin-bottom: 25px;
 }
 .container .text-muted {
@@ -208,6 +210,7 @@ body {
   color: #0f80c6;
 }
 .panel-body strong {
+  font-family: 'Oswald', sans-serif;
   font-weight: 500;
 }
 .panel-body .fa-lg {
@@ -256,9 +259,10 @@ body {
   text-decoration: none !important;
 }
 .text-muted {
+  font-family: 'Roboto', sans-serif;
 	color: #6b6b6b;
   font-weight: 300;
-  font-size: 17px;
+  font-size: 14px;
 }
 div.footer{
   border-bottom: 5px solid #0f80c6;
