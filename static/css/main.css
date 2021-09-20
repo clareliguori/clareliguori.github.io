@@ -139,6 +139,15 @@ body {
   margin: 25px auto;
   text-align: left;
   line-height: 1.6;
+  font-size: 28px;
+}
+#about-me h5 {
+  width: auto;
+  max-width: 600px;
+  margin: 25px auto;
+  text-align: left;
+  line-height: 1.6;
+  font-size: 18px;
 }
 #about-me a {
   color: #0f80c6;
@@ -211,7 +220,7 @@ body {
 }
 .panel-body strong {
   font-family: 'Oswald', sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 20px;
 }
 .panel-body .fa-lg {
