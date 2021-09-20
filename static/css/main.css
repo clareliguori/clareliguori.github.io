@@ -133,13 +133,17 @@ body {
   color: #0f80c6;
 }
 
+#about h3 {
+  font-weight: 300;
+}
+
 #about-me h3 {
   width: auto;
   max-width: 600px;
   margin: 25px auto;
   text-align: left;
   line-height: 1.6;
-  font-size: 28px;
+  font-size: 36px;
 }
 #about-me h5 {
   width: auto;
