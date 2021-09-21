@@ -6,12 +6,12 @@
 		{% assign sorted_talks = (site.data.talks | sort: 'date') | reverse %}
 		{% for talk in sorted_talks %}
 			<div class="row">
-				 <div class="col-sm-2 col-md-2 col-lg-2">
+				 <div class="col-sm-3 col-md-3 col-lg-3">
 					 <h5 style="text-align: left">
 					 	{{ talk.date | date: "%B %e, %Y" }}
 					 </h5>
 				 </div>
-				 <div class="col-sm-10 col-md-10 col-lg-10">
+				 <div class="col-sm-9 col-md-9 col-lg-9">
 					 <h5 style="text-align: left">
 						 <strong>{{ talk.title }}</strong><br/>
 						 at <a href="{{ talk.eventurl }}" target="_blank">{{ talk.event }}</a>
