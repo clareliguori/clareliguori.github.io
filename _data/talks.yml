@@ -91,3 +91,10 @@
   links:
     - url: https://www.infoq.com/podcasts/aws-deployments
       label: episode
+- date: 2021-10-04
+  event: AWS Developers Podcast
+  eventurl: https://soundcloud.com/awsdevelopers
+  title: "DevOps at Amazon with Clare Liguori"
+  links:
+    - url: https://soundcloud.com/awsdevelopers/episode-015-devops-at-amazon-with-clare-liguori
+      label: episode
