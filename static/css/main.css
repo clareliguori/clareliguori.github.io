@@ -193,6 +193,7 @@ body {
 .img-blog-content {
  display: block;
  border:  1px solid #CFD9DE;
+ max-width: 100%;
 }
 
 .panel-default h4 {
