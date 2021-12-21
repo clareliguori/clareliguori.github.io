@@ -9,7 +9,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: https://www.clareliguori.com/
-baseurl: /
+baseurl: ''
 sourceurl: https://github.com/clareliguori/clareliguori.github.io
 title: Clare Liguori
 author: Clare Liguori
