@@ -273,7 +273,11 @@ body {
   font-weight: 400;
   font-size: 16px;
   margin-bottom: 25px;
+}
 
+.blogpost p {
+  line-height: 1.2;
+  margin-bottom: 25px;
 }
 
 /* Footer

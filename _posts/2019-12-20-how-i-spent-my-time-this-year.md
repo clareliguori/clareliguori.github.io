@@ -12,15 +12,6 @@ down into a few buckets:
 
 ![](/static/img/posts/time-chart-2019.jpeg){:class="img-blog-content" width="600px"}
 
-This is how I defined the set of activities that fall into each bucket. Again,
-every PE is unique; these are the activities that I personally spent most of my
-time on in 2019:
-* **Tech**: Writing and reviewing code & technical designs; service operations
-* **Product**: Discussions and writing docs related to roadmap and product ideas; meeting with customers and partners
-* **Project**: "Glue" work, like project planning, getting stuff out the door, keeping teams on track, and aligning with other teams
-* **Team**: Team meetings, one-on-ones, mentoring, interviewing, recruiting, promotion-related and other talent reviews, internal public speaking
-* **External**: Public speaking at conferences, working with open source groups, marketing discussions, creating content for Twitter and blogs
-
 When I put the data into a quarterly view, I found the results to be pretty
 interesting. The data turned out to be very aligned to the annual AWS calendar.
 Q1 and Q3 is when we do org-level career discussions and talent reviews, so it
@@ -39,3 +30,37 @@ categorized them, and guess-timated how I spent my time during the empty time
 blocks in my calendar. I then used one of my favorite tools
 [Infogram](https://infogram.com/) to visualize the data. You can see the full 
 infographic here: <https://infogram.com/2019-year-in-review-1hmr6gxgr5g34nl>.
+
+Below is how I defined the set of activities that fall into each bucket. Again,
+every PE is unique; these are the activities that I personally spent most of my
+time on in 2019:
+
+#### Tech
+* Writing and reviewing code & technical designs
+* Service operations
+
+#### Product
+* Discussions and writing docs related to roadmap and product ideas
+* Meeting with customers and partners
+
+#### Project
+* "Glue" work
+* Project planning
+* Getting new features and products shipped
+* Keeping teams on track
+* Aligning with other teams
+
+#### Team
+* Team meetings
+* One-on-ones
+* Mentoring
+* Interviewing
+* Recruiting
+* Promotion reviews and other talent reviews
+* Internal public speaking
+
+#### External
+* Public speaking at conferences
+* Working with open source groups
+* Marketing discussions
+* Creating content for Twitter and blogs

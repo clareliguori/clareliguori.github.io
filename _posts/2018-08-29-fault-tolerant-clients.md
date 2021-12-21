@@ -41,7 +41,7 @@ You can ratchet socket timeouts down a bit at the system level by configuring
 keep-alives (see [this Redshift guidance](https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-firewall-guidance.html#connecting-firewall-guidance.change-tcpip-settings)),
 but in general you'll want to configure timeouts at the application and client
 level based on your needs. Many systems and client libraries will use a socket 
-read timeout of *infinity*{:.underline} by default. As in, FOREVERRRR ... until
+read timeout of *infinity* by default. As in, FOREVERRRR ... at least, until
 the next application restart. I am not waiting around forever, no thanks, my 
 application has better things to do!
 
