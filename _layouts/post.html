@@ -16,13 +16,10 @@ layout: layout
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="blogpost">
-        <h5>
-          {% if page.twitter_link %}
-          <p><i>(Originally from <a href="{{ page.twitter_link }}">{{ page.twitter_link }}</a>)</i></p>
-          {% endif %}
-
-			    {{ content }}
-        </h5>
+        {% if page.twitter_link %}
+        <p><i>(Originally from <a href="{{ page.twitter_link }}">{{ page.twitter_link }}</a>)</i></p>
+        {% endif %}
+  	    {{ content }}
 			</div>
 		</div>
 	</div>
