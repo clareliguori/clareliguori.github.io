@@ -3,12 +3,9 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
-paginate: 5
-plugins: [jekyll-paginate]
+permalink: /posts/:year/:month/:day/:title.html
 port: 3000
 safe: true
-
 
 # edit here to achieve your personal greatness
 url: https://www.clareliguori.com/
@@ -32,4 +29,3 @@ exclude: [vendor]
 
 plugins:
   - jemoji
-  - jekyll-paginate
