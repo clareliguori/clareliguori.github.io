@@ -4,29 +4,29 @@ title: Collected career advice gems
 twitter_link: https://twitter.com/clare_liguori/status/1126992938502742016
 ---
 
-I recently spoke to a group of engineers about "Career Growth" as an individual contributor in tech. As I was talking, I realized there are some pieces of advice that have stuck with me a long time, and they keep popping into my head when I talk about this topic.
+I recently spoke to a group of engineers about "Career Growth" as an individual contributor in tech. As I was talking, I realized there are some pieces of advice that have stuck with me a long time, and they keep popping into my head when I speak about this topic.
 
-1. The book "How to be a Star at Work" (corny title, but full of gems) introduced me to the concept of "small-l" leadership and "Big-L" Leadership. Engineers are small-l leaders: we lead through influence & teamwork, not through Authority with a capital A.
+1. The book [How to Be a Star at Work](https://www.amazon.com/How-Star-Work-Breakthrough-Strategies/dp/0812931696) (corny title, but full of gems) introduced me to the concept of "small-l" leadership and "Big-L" Leadership. Engineers are small-l leaders: we lead through influence & teamwork, not through Authority with a capital A.
 
-    ![Are You a Star at Work?](/static/img/posts/are-you-a-star-at-work.png){:class="img-blog-content" height="500px"}
+    ![](/static/img/posts/are-you-a-star-at-work.png){:class="img-blog-content" height="500px"}
 
     Read more here: <https://www.fastcompany.com/33955/are-you-star-work>
 
 2. In 2006, Marissa Mayer interviewed me for a job at Google. I did not know who she was when she walked in. I think I complimented her skirt? :grimacing: Anyway, at dinner, she gave us candidates this advice about taking a job slightly outside your comfort zone.
 
-    ![Marissa Mayer quote](/static/img/posts/marissa-mayer-quote.png){:class="img-blog-content" width="500px"}
+    ![](/static/img/posts/marissa-mayer-quote.png){:class="img-blog-content" width="600px"}
 
     Read more here: <https://www.cnn.com/2012/04/05/tech/google-marissa-mayer/index.html>
 
 3. Early on, I thought becoming a senior engineer meant just getting better at writing Java code, but there's so many more dimensions to growth as an engineer. I like Colm MacCarthaigh's framing around expanding autonomy & vision as you grow.
 
-    ![Colm quote](/static/img/posts/colm-autonomy.png)
+    ![](/static/img/posts/colm-autonomy.png){:class="img-blog-content" width="500px"}
 
-    Read more here: <https://twitter.com/colmmacc/status/1034167473447165952>{:class="img-blog-content" width="500px"}
+    Read more here: <https://twitter.com/colmmacc/status/1034167473447165952>
 
-4. I identified with so much of Tina Fey's Bossypants book. She talks about her struggles as a woman in a male-dominated field in a way that's empowering, not depressing. I especially loved her advice for dealing with jerks. Over, Under, Through!
+4. I identified with so much of Tina Fey's book [Bossypants](https://www.amazon.com/Bossypants-Tina-Fey-ebook/dp/B0047Y0FGY). She talks about her struggles as a woman in a male-dominated field in a way that's empowering, not depressing. I especially loved her advice for dealing with jerks. Over, Under, Through!
 
-    ![Bossypants quote](/static/img/posts/tina-fey-bossypants.png){:class="img-blog-content" width="500px"}
+    ![](/static/img/posts/tina-fey-bossypants.png){:class="img-blog-content" width="600px"}
 
     Read more here: <https://slate.com/technology/2011/07/tina-fey-s-bossypants-an-excerpt.html>
 
