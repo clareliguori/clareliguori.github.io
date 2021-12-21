@@ -269,17 +269,22 @@ body {
   padding-bottom: 15px;
 }
 
-.blogpost{
+.blogpost {
   text-align: left;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  font-size: 16px;
-  margin-bottom: 25px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.blogpost strong {
+  font-weight: 900;
+  font-size: 18px;
 }
 
 .blogpost p {
-  line-height: 1.6;
-  margin-bottom: 20px;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 /* Footer
