@@ -189,6 +189,12 @@ body {
  height: auto;
  max-width: 100%;
 }
+
+.img-blog-content {
+ display: block;
+ border:  1px solid #CFD9DE;
+}
+
 .panel-default h4 {
   text-align: left;
   line-height: 24px;

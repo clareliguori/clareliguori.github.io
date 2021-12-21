@@ -29,3 +29,7 @@ google_analytics: UA-20185599-1
 
 # needed for travis-ci build
 exclude: [vendor]
+
+plugins:
+  - jemoji
+  - jekyll-paginate
