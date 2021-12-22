@@ -45,7 +45,10 @@ body {
   text-transform: uppercase;
   text-align: left;
 }
-.navbar-default .navbar-nav .navbar-left > li > a {
+.navbar-default .navbar-header .fa-lg {
+  vertical-align: 0;
+}
+.navbar-default .navbar-header .navbar-left > li > a {
   padding-left: 0;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
