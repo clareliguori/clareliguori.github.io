@@ -48,9 +48,6 @@ body {
 .navbar-default .navbar-header .fa-lg {
   vertical-align: 0;
 }
-.navbar-default .navbar-header .navbar-left > li > a {
-  padding-left: 0;
-}
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
 }
