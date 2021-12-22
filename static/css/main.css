@@ -256,9 +256,18 @@ body {
 .blog-post{
   padding-top: 15px;
 }
+.blog-post h3 {
+  line-height: 1.6;
+  font-size: 36px;
+}
 .blog-title{
   padding-top: 2px;
 }
+.blog-title h4 {
+  font-weight: 400;
+  font-size: 18px;
+}
+
 .related-posts h4 {
   text-align: center;
 }

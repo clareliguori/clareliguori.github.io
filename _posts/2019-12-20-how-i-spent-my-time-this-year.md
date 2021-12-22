@@ -10,7 +10,7 @@ Every principal engineer I know plays a mix of roles unique to them, so I put
 together this rough estimate of how I personally spent my time in 2019, broken
 down into a few buckets:
 
-![](/static/img/posts/time-chart-2019.jpeg){:class="img-blog-content" width="600px"}
+![](/static/img/posts/time-chart-2019.jpeg){:class="img-blog-content"}
 
 When I put the data into a quarterly view, I found the results to be pretty
 interesting. The data turned out to be very aligned to the annual AWS calendar.
@@ -22,7 +22,7 @@ reInvent conference in Q4 means I spent a lot of time on the "Project" and
 "External" categories in that quarter, trying to get things shipped and working
 on my reInvent talks.
 
-![](/static/img/posts/time-chart-2019-quarterly.jpeg){:class="img-blog-content" width="600px"}
+![](/static/img/posts/time-chart-2019-quarterly.jpeg){:class="img-blog-content"}
 
 I took a "low tech" approach to collecting this data at the end of the year:
 I spent about an hour crawling through the past year's meetings on my calendar,
