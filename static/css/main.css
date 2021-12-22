@@ -45,6 +45,9 @@ body {
   text-transform: uppercase;
   text-align: left;
 }
+.navbar-default .navbar-nav .navbar-left > li > a {
+  padding-left: 0;
+}
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
 }
