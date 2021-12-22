@@ -223,6 +223,7 @@ body {
 }
 .panel-body {
   padding-top: -10px;
+  padding-bottom: 40px;
   text-align: left;
 }
 .panel-body a {
