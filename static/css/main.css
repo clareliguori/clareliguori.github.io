@@ -240,7 +240,7 @@ body {
 }
 .panel-body strong {
   font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 16px;
 }
 .panel-body .fa-lg {
@@ -294,9 +294,8 @@ body {
 }
 
 .blogpost strong {
-  font-weight: 900;
+  font-weight: 700;
   font-size: 18px;
-  text-decoration: underline;
 }
 
 .blogpost p {
