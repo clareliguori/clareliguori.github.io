@@ -7,6 +7,10 @@ permalink: /posts/:year/:month/:day/:title.html
 port: 3000
 safe: true
 
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+
 # edit here to achieve your personal greatness
 url: https://www.clareliguori.com/
 baseurl: ''
@@ -23,9 +27,5 @@ linkedin: clareliguori
 youtube: PLIF3k1ZrFvz15EXnfVR12qCbgfLqgG3Wa
 google_analytics: UA-20185599-1
 
-
 # needed for travis-ci build
 exclude: [vendor]
-
-plugins:
-  - jemoji
