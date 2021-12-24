@@ -32,6 +32,9 @@ body {
 }
 .navbar-default .navbar-brand {
   color: #6b6b6b;
+  font-size: 17px;
+  text-transform: uppercase;
+  text-align: left;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   color: #6b6b6b;
