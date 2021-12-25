@@ -1,4 +1,3 @@
-# top level stuff you probably don't need to touch
 highlighter: rouge
 markdown: kramdown
 rdiscount:
@@ -11,21 +10,31 @@ plugins:
   - jemoji
   - jekyll-seo-tag
 
-# edit here to achieve your personal greatness
 url: https://www.clareliguori.com/
 baseurl: ''
 sourceurl: https://github.com/clareliguori/clareliguori.github.io
 title: Clare Liguori
-author: Clare Liguori
-authortitle: Principal Software Engineer
+author:
+  name: Clare Liguori
+  url: https://www.clareliguori.com/
+  twitter: clare_liguori
+  title: Principal Software Engineer
 description: Personal website
 avatar: profile.png
 email: hello@clareliguori.com
 github: clareliguori
-twitter: clare_liguori
+twitter:
+  username: clare_liguori
+  card: summary
 linkedin: clareliguori
 youtube: PLIF3k1ZrFvz15EXnfVR12qCbgfLqgG3Wa
 google_analytics: UA-20185599-1
+social:
+  name: Clare Liguori
+  links:
+    - https://twitter.com/clare_liguori
+    - https://www.linkedin.com/in/clareliguori
+    - https://github.com/clareliguori
 
 # needed for travis-ci build
 exclude: [vendor]
