@@ -2,6 +2,7 @@
 layout: post
 title: Best practices for fault-tolerant web clients
 twitter_link: https://twitter.com/clare_liguori/status/1034829325306978304
+image: /static/img/posts/resilient-clients-preview.png
 ---
 
 [This Twitter thread](https://twitter.com/colmmacc/status/1034502453385822208)

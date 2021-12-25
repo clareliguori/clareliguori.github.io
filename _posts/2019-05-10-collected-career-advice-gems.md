@@ -2,6 +2,7 @@
 layout: post
 title: Collected career advice gems
 twitter_link: https://twitter.com/clare_liguori/status/1126992938502742016
+image: /static/img/posts/are-you-a-star-at-work.png
 ---
 
 I recently spoke to a group of engineers about "Career Growth" as an individual contributor in tech. As I was talking, I realized there are some pieces of advice that have stuck with me a long time, and they keep popping into my head when I speak about this topic.
