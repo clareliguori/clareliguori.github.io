@@ -273,10 +273,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>= 179)
-  jekyll (~> 3.9)
-  jekyll-seo-tag (~> 2.7)
-  jemoji (~> 0.12)
+  github-pages
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
