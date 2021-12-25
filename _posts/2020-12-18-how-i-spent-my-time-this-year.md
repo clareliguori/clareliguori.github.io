@@ -2,6 +2,7 @@
 layout: post
 title: How I spent my time in 2020
 twitter_link: https://twitter.com/clare_liguori/status/1340107010168082432
+image: /static/img/posts/time-chart-2020.jpeg
 ---
 
 Today is my last 2020 workday so I'm reflecting a bit on what I did this year, but also about my approach to time management this year and how I attempted to answer for myself that age-old principal engineer question "**Why don't I have any time to do real work???**"

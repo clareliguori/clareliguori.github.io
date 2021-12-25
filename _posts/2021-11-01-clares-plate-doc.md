@@ -2,6 +2,7 @@
 layout: post
 title: The Clare's Plate document
 twitter_link: https://twitter.com/clare_liguori/status/1455239863595270145
+image: /static/img/posts/clares-plate-generic-example.jpeg
 ---
 
 I hear statements like these a lot from mentees and others, and it seems more common since we all transitioned to working remotely last year:

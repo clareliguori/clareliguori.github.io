@@ -2,6 +2,7 @@
 layout: post
 title: How I spent my time in 2019
 twitter_link: https://twitter.com/clare_liguori/status/1208152659053563904
+image: /static/img/posts/time-chart-2019.jpeg
 ---
 
 I get this question a lot: "What *exactly* does a Principal Engineer do at AWS?"
