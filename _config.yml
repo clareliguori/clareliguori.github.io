@@ -10,8 +10,8 @@ plugins:
   - jemoji
   - jekyll-seo-tag
 
-url: https://www.clareliguori.com/
-baseurl: ''
+url: https://www.clareliguori.com
+baseurl: '/'
 sourceurl: https://github.com/clareliguori/clareliguori.github.io
 title: Clare Liguori
 author:
