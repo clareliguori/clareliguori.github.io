@@ -133,7 +133,17 @@ body {
   margin-top: 5px;
   margin-bottom: 15px;
 }
-
+.projects-list {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.8em;
+  text-align: left;
+  margin-top: 10px;
+}
+.projects-list > li > p {
+  padding-top: 4px;
+}
 .container .text-muted {
   margin: 20px 0;
 }
