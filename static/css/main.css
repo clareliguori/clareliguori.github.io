@@ -123,6 +123,17 @@ body {
   font-size: 16px;
   margin-bottom: 0;
 }
+.col-date h5 {
+  margin-top: 0px;
+}
+.col-link h5 {
+  margin-top: 0px;
+}
+.row {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
 .container .text-muted {
   margin: 20px 0;
 }
