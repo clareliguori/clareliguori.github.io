@@ -172,14 +172,18 @@ body {
   line-height: 1.6;
   font-size: 36px;
 }
-#about-me h5 {
+
+#about-me p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
   width: auto;
   max-width: 600px;
   margin: 25px auto;
   text-align: left;
   line-height: 1.6;
-  font-size: 18px;
 }
+
 #about-me a {
   color: #0f80c6;
 }
