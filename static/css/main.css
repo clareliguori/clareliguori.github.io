@@ -125,9 +125,11 @@ body {
 }
 .col-date h5 {
   margin-top: 0px;
+  text-align: left;
 }
 .col-link h5 {
   margin-top: 0px;
+  text-align: left;
 }
 .row {
   margin-top: 5px;

@@ -7,12 +7,12 @@
 		{% for article in sorted_articles %}
 			<div class="row">
 				 <div class="col-sm-3 col-md-3 col-lg-3 col-date">
-					 <h5 style="text-align: left">
+					 <h5>
 					 	{{ article.date | date: "%B %e, %Y" }}
 					 </h5>
 				 </div>
 				 <div class="col-sm-9 col-md-9 col-lg-9 col-link">
-					 <h5 style="text-align: left">
+					 <h5>
 						 <strong><a href="{{ article.link }}" target="_blank">{{ article.title }}</a></strong><br/>
 						 on {{ article.site }}
 					 </h5>
@@ -27,12 +27,12 @@
 		{% for post in site.posts %}
 			<div class="row">
 				 <div class="col-sm-3 col-md-3 col-lg-3 col-date">
-					 <h5 style="text-align: left">
+					 <h5>
 					 	{{ post.date | date: "%B %e, %Y" }}
 					 </h5>
 				 </div>
 				 <div class="col-sm-9 col-md-9 col-lg-9 col-link">
-					 <h5 style="text-align: left">
+					 <h5>
 						 <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
 					 </h5>
 					</div>
