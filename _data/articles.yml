@@ -6,3 +6,7 @@
   title: Automating safe, hands-off deployments
   site: Amazon Builders' Library
   link: https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/
+- date: 2022-10-01
+  title: My CI/CD pipeline is my release captain
+  site: Amazon Builders' Library
+  link: https://aws.amazon.com/builders-library/cicd-pipeline/
