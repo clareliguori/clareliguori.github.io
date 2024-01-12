@@ -17,9 +17,9 @@ for the last couple years with my teams to generate exciting new ideas.
 
 ### TLDR for my virtual brainstorming process
 
-1. Individuals come up with ideas (10-15 minutes)
+1. Individuals come up with ideas (10 - 15 minutes)
 2. Moderator presents pre-selected themes
-3. Individuals come up with ideas on those themes (10-15 minutes)
+3. Individuals come up with ideas on those themes (10 - 15 minutes)
 4. Individuals present their top idea, group and/or moderator decides if we want to follow up
 5. (if time allows) Moderator does clustering of ideas and leads discussion about any new ideas or themes emerging
 6. (post-meeting) Moderator summarizes the above, and assign next steps
@@ -45,13 +45,13 @@ People can create as many stickies as they want for whatever ideas are floating 
 ![](/static/img/posts/virtual-brainstorming-whiteboard-stickies.png){:class="img-blog-content"}
 
 Next, do some guided brainstorming around themes that you have pre-selected prior to the meeting.
-Pick whatever themes you think are crucial for focusing discussion and themes, max 5 or 6 themes.
+Pick whatever themes you think are crucial for focusing discussion and ideas, max 5 or 6 themes.
 This part is really important for virtual brainstorming.
 In person, we feed off each other's ideas and arrive at common themes more easily.
-But I've found that we don't get that same flow virtually.
+But, I've found that we don't get that same flow virtually without a bit of guidance.
 
-In the virtual whiteboard, a "curtain" covers up the themes during open-ended idea time,
-and then do a big reveal when it's time for theme-based brainstorming by deleting the curtain box.
+In the virtual whiteboard, a "curtain" covers up the themes during open-ended idea time.
+Do a big dramatic reveal when it's time for theme-based brainstorming by deleting the curtain box.
 Spend another 10 - 15 minutes doing individual brainstorming,
 but this time around the pre-selected themes.
 People can choose to focus in on one theme, or try to think up ideas along each one of the themes.
@@ -60,10 +60,10 @@ People can choose to focus in on one theme, or try to think up ideas along each 
 
 ![](/static/img/posts/virtual-brainstorming-whiteboard-themes.png){:class="img-blog-content"}
 
-When all the individual brainstorming is done (~30-45 min in total),
+When all the individual brainstorming is done (~30 - 45 min in total),
 come back together as a group and share your screen with the whiteboard up.
 Each person shares their top idea with the group.
-I've found that 8-10 min per person is enough time to explain the idea,
+I've found that 8 - 10 min per person is enough time to explain the idea,
 have a super short discussion, and decide if you want to follow up on the idea later.
 
 If you have time at the end of the meeting, you can spend some time as a group
