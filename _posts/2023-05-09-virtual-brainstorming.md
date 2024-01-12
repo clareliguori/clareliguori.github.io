@@ -15,7 +15,7 @@ Usually we'd get in a room with lots of post-its, but the last few years being m
 meant finding new ways to brainstorm together. This post describes the process I have used
 for the last couple years with my teams to generate exciting new ideas.
 
-## TLDR for my virtual brainstorming process
+### TLDR for my virtual brainstorming process
 
 1. Individuals come up with ideas (10-15 minutes)
 2. Moderator presents pre-selected themes
@@ -24,7 +24,7 @@ for the last couple years with my teams to generate exciting new ideas.
 5. (if time allows) Moderator does clustering of ideas and leads discussion about any new ideas or themes emerging
 6. (post-meeting) Moderator summarizes the above, and assign next steps
 
-## The brainstorming process in detail
+### The brainstorming process in detail
 
 For a virtual brainstorming session, book a meeting for 2.5 - 3 hours.
 My rule of thumb is 30 - 45 minutes + 8 - 10 minutes per person participating in the meeting.
@@ -37,9 +37,7 @@ Set up the virtual whiteboard with a box for each person's ideas.
 The first step of the meeting gets people used to the virtual whiteboard UX by "claiming" their sticky notes and filling in their name.
 In my experience, these virtual whiteboard solutions are never fully intuitive and just learning how to pan, zoom, and fill in text takes time.
 
-![](/static/img/posts/virtual-brainstorming-whiteboard.png){:class="img-blog-content"}
-
-![](/static/img/posts/virtual-brainstorming-whiteboard-individual.png){:class="img-blog-content"}
+| ![](/static/img/posts/virtual-brainstorming-whiteboard.png){:class="img-blog-content"} | ![](/static/img/posts/virtual-brainstorming-whiteboard-individual.png){:class="img-blog-content"} |
 
 Next, spend some time doing open-ended, individual brainstorming to get the brain warmed up and ideas flowing, 10 - 15 minutes.
 People can create as many stickies as they want for whatever ideas are floating around in their head.
