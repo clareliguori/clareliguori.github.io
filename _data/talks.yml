@@ -103,3 +103,10 @@
   eventurl: https://reinvent.awsevents.com
   title: "Amazon Q: Your new assistant and expert guide for building with AWS"
   youtube: lBJHJmkotcI
+- date: 2024-02-16
+  event: AWS Developers Podcast
+  eventurl: https://soundcloud.com/awsdevelopers
+  title: "Diving into Amazon Q Builder with Clare Liguori"
+  links:
+    - url: https://soundcloud.com/awsdevelopers/episode-108-diving-into-amazon-q-builder-with-clare-liguori
+      label: episode
