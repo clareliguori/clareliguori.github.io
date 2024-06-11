@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/clareliguori
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.clareliguori.com
+  * I am clareliguori (https://keybase.io/clareliguori) on keybase.
+  * I have a public key ASDu46ISxW5pKLuC-zblWmdLfT9G7bW4CLK5TjuY5mlxbQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120eee3a212c56e6928bb82fb36e55a674b7d3f46edb5b808b2b94e3b98e669716d0a",
+      "host": "keybase.io",
+      "kid": "0120eee3a212c56e6928bb82fb36e55a674b7d3f46edb5b808b2b94e3b98e669716d0a",
+      "uid": "c4b74e51fac7eb6097611e71432c1019",
+      "username": "clareliguori"
+    },
+    "merkle_root": {
+      "ctime": 1718124413,
+      "hash": "bc986f3c9dee6650c103deaeca5c068fe87126f1d23b6e825dce5dba6b05cee1f3fa2aa201ea651032ab257e4d0c0f2202ed40ad6a8cbe03b768eddc5d488b1d",
+      "hash_meta": "93333049570a786e47124d9d0c405a00162acde0bd93bafc436a00e8831abed2",
+      "seqno": 25821066
+    },
+    "service": {
+      "entropy": "JsH3v3Pirvz+yuT5QbJxLECK",
+      "hostname": "www.clareliguori.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1718124496,
+  "expire_in": 504576000,
+  "prev": "6c8b9fcb973f7c0284e2b736532c2e5777456ac97791437eff993d217f894d52",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7uOiEsVuaSi7gvs25VpnS30/Ru21uAiyuU47mOZpcW0Kp3BheWxvYWTESpcCFcQgbIufy5c/fAKE4rc2UywuV3dFasl3kUN+/5k9IX+JTVLEIBt4ECvfTkj5fuYay5CDwwOLNWwmI6iYgCN/Zh2QQvyoAgHCo3NpZ8RAESP1wPWudO+wFeJBFOcJp+167yFm9fUCcz/04vrUh5SgZWONSB9bXNamSqqvNyiEsNY4jgp+HesdENgCFKCCCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILHTDXtGkZsix5YxlnwptZcj6x5oHjPv3ccOSnbZWMvto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/clareliguori
+
+==================================================================
