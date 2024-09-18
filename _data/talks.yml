@@ -110,3 +110,8 @@
   links:
     - url: https://soundcloud.com/awsdevelopers/episode-108-diving-into-amazon-q-builder-with-clare-liguori
       label: episode
+- date: 2024-09-18
+  event: PulumiUP
+  eventurl: https://www.pulumi.com/pulumi-up/
+  title: "Panel: AI for Cloud Development"
+  youtube: eiVTfB3Qrqo
