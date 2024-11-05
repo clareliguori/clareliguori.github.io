@@ -19,6 +19,16 @@
         </div>
     </div>
 {% endif %}
+{% if site.bluesky %}
+    <div class="about-link-row">
+        <div class="about-link-title">Social</div>
+        <div class="about-link-logo">
+            <a href="https://bsky.app/profile/{{ site.bluesky }}">
+                <img class="link-logo-img" src="/static/img/bluesky.png" alt="Bluesky">
+            </a>
+        </div>
+    </div>
+{% endif %}
 {% if site.twitter.username %}
     <div class="about-link-row">
         <div class="about-link-title">Tweets</div>
