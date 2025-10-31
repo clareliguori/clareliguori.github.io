@@ -135,3 +135,8 @@
   eventurl: https://redmonk.com/videos/tnb-clare-liguori-kiro-ai-spec-driven-software-development/
   title: "Clare Liguori on Kiro & AI Spec-Driven Software Development"
   youtube: DmdK89QOV4Y
+- date: 2025-10-23
+  event: Top End Devs - Javascript Jabber Podcast
+  eventurl: https://topenddevs.com/podcasts/javascript-jabber
+  title: "Spec-Driven Development and the Future of AI IDEs with AWS’s Kiro"
+  youtube: gvvIFWLypGAe
