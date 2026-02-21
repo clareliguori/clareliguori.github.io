@@ -9,7 +9,7 @@
 - date: 2022-10-01
   title: My CI/CD pipeline is my release captain
   site: Amazon Builders' Library
-  link: https://aws.amazon.com/builders-library/cicd-pipeline/
+  link: https://d1.awsstatic.com/builderslibrary/pdfs/CICD_pipeline_as_release_captain.pdf
 - date: 2025-05-16
   title: Introducing Strands Agents, an Open Source AI Agents SDK
   site: AWS Open Source Blog
