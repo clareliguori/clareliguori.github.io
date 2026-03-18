@@ -12,9 +12,13 @@
   link: https://d1.awsstatic.com/builderslibrary/pdfs/CICD_pipeline_as_release_captain.pdf
 - date: 2025-05-16
   title: Introducing Strands Agents, an Open Source AI Agents SDK
-  site: AWS Open Source Blog
-  link: https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/
+  site: Strands Agents SDK
+  link: https://strandsagents.com/blog/introducing-strands-agents/
 - date: 2025-12-03
   title: Prototypes Before PRFAQs
   site: The Kernel
   link: https://thekernel.news/articles/prototypes-before-prfaqs/
+- date: 2026-03-18
+  title: How Steering Hooks Achieved 100% Agent Accuracy Where Prompts and Workflows Failed
+  site: Strands Agents SDK
+  link: https://strandsagents.com/blog/steering-accuracy-beats-prompts-workflows/
