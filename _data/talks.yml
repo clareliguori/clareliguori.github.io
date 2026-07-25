@@ -155,3 +155,17 @@
   eventurl: https://thenewstack.io/amazon-aws-mcp-agentic/
   title: As agentic AI explodes, Amazon doubles down on MCP
   youtube: pnOIyjGHGU0
+- date: 2026-07-08
+  event: Software Engineering Radio
+  eventurl: https://se-radio.net
+  title: Clare Liguori on the AWS Strands SDK for AI Agents
+  links:
+    - url: https://se-radio.net/2026/07/se-radio-728-clare-liguori-on-aws-strand-sdk-for-ai-agents
+      label: episode
+- date: 2026-07-20
+  event: InfoQ Podcast
+  eventurl: https://www.infoq.com/the-infoq-podcast/
+  title: Strands Agents with Clare Liguori
+  links:
+    - url: https://www.infoq.com/podcasts/strands-agents
+      label: episode
