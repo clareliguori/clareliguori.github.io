@@ -169,3 +169,12 @@
   links:
     - url: https://www.infoq.com/podcasts/strands-agents
       label: episode
+- date: 2026-07-20
+  event: LinearB Dev Interrupted Podcast
+  eventurl: https://linearb.io/dev-interrupted
+  title: "Agent, skill, or MCP? Which to use and when to use them"
+  links:
+    - url: https://linearb.io/dev-interrupted/podcast/aws-clare-liguori-agent-skill-mcp-architecture
+      label: episode
+    - url: https://www.youtube.com/watch?v=x8_OhVgb4HE
+      label: video
