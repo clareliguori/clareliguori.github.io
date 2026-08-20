@@ -169,7 +169,7 @@
   links:
     - url: https://www.infoq.com/podcasts/strands-agents
       label: episode
-- date: 2026-07-20
+- date: 2026-08-18
   event: LinearB Dev Interrupted Podcast
   eventurl: https://linearb.io/dev-interrupted
   title: "Agent, skill, or MCP? Which to use and when to use them"
@@ -178,3 +178,10 @@
       label: episode
     - url: https://www.youtube.com/watch?v=x8_OhVgb4HE
       label: video
+- date: 2026-08-18
+  event: Techstrong AI Leadership Insights Series
+  eventurl: https://techstrong.tv/videos/ai-leadership-insights
+  title: Stateless MCP Moves AI Agents Toward Enterprise Scale
+  links:
+    - url: https://techstrong.tv/videos/ai-leadership-insights/stateless-mcp-moves-ai-agents-toward-enterprise-scale
+      label: episode
