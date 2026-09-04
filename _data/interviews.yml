@@ -2,30 +2,22 @@
   event: Engine Yard's Steam Powered Podcast
   eventurl: https://open.spotify.com/show/36R7Ejv9YpgiK8FlNfDaBO
   title: "A Discussion with Clare Liguori from AWS Container Services"
-  links:
-    - url: https://open.spotify.com/episode/5RStgUxaYqlLFrDCFvmQ43
-      label: episode
+  episode: https://open.spotify.com/episode/5RStgUxaYqlLFrDCFvmQ43
 - date: 2021-02-22
   event: InfoQ Podcast
   eventurl: https://www.infoq.com/the-infoq-podcast/
   title: "Clare Liguori on Automating Safe and Hands-Off Deployments at AWS"
-  links:
-    - url: https://www.infoq.com/podcasts/aws-deployments
-      label: episode
+  episode: https://www.infoq.com/podcasts/aws-deployments
 - date: 2021-10-04
   event: AWS Developers Podcast
   eventurl: https://soundcloud.com/awsdevelopers
   title: "DevOps at Amazon with Clare Liguori"
-  links:
-    - url: https://soundcloud.com/awsdevelopers/episode-015-devops-at-amazon-with-clare-liguori
-      label: episode
+  episode: https://soundcloud.com/awsdevelopers/episode-015-devops-at-amazon-with-clare-liguori
 - date: 2024-02-16
   event: AWS Developers Podcast
   eventurl: https://soundcloud.com/awsdevelopers
   title: "Diving into Amazon Q Builder with Clare Liguori"
-  links:
-    - url: https://soundcloud.com/awsdevelopers/episode-108-diving-into-amazon-q-builder-with-clare-liguori
-      label: episode
+  episode: https://soundcloud.com/awsdevelopers/episode-108-diving-into-amazon-q-builder-with-clare-liguori
 - date: 2025-07-14
   event: AWS She Builds
   eventurl: https://www.twitch.tv/aws/
@@ -60,29 +52,20 @@
   event: Software Engineering Radio
   eventurl: https://se-radio.net
   title: Clare Liguori on the AWS Strands SDK for AI Agents
-  links:
-    - url: https://se-radio.net/2026/07/se-radio-728-clare-liguori-on-aws-strand-sdk-for-ai-agents
-      label: episode
+  episode: https://se-radio.net/2026/07/se-radio-728-clare-liguori-on-aws-strand-sdk-for-ai-agents
 - date: 2026-07-20
   event: InfoQ Podcast
   eventurl: https://www.infoq.com/the-infoq-podcast/
   title: Strands Agents with Clare Liguori
-  links:
-    - url: https://www.infoq.com/podcasts/strands-agents
-      label: episode
+  episode: https://www.infoq.com/podcasts/strands-agents
 - date: 2026-08-18
   event: LinearB Dev Interrupted Podcast
   eventurl: https://linearb.io/dev-interrupted
   title: "Agent, skill, or MCP? Which to use and when to use them"
-  links:
-    - url: https://linearb.io/dev-interrupted/podcast/aws-clare-liguori-agent-skill-mcp-architecture
-      label: episode
-    - url: https://www.youtube.com/watch?v=x8_OhVgb4HE
-      label: video
+  episode: https://linearb.io/dev-interrupted/podcast/aws-clare-liguori-agent-skill-mcp-architecture
+  youtube: x8_OhVgb4HE
 - date: 2026-08-18
   event: Techstrong AI Leadership Insights Series
   eventurl: https://techstrong.tv/videos/ai-leadership-insights
   title: Stateless MCP Moves AI Agents Toward Enterprise Scale
-  links:
-    - url: https://techstrong.tv/videos/ai-leadership-insights/stateless-mcp-moves-ai-agents-toward-enterprise-scale
-      label: episode
+  episode: https://techstrong.tv/videos/ai-leadership-insights/stateless-mcp-moves-ai-agents-toward-enterprise-scale

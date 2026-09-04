@@ -15,14 +15,11 @@
 					 <h5>
 						 <strong>{{ interview.title }}</strong><br/>
 						 at <a href="{{ interview.eventurl }}" target="_blank">{{ interview.event }}</a>
+						 {% if interview.episode %}
+								(<a href="{{ interview.episode }}" target="_blank">episode</a>)
+						 {% endif %}
 						 {% if interview.youtube %}
 								(<a href="https://youtu.be/{{ interview.youtube }}" target="_blank">video</a>)
-						 {% endif %}
-						 {% if interview.slideshare %}
-								(<a href="https://www.slideshare.net/{{ interview.slideshare }}" target="_blank">slides</a>)
-						 {% endif %}
-						 {% if interview.github %}
-								(<a href="https://github.com/{{ interview.github }}" target="_blank">code</a>)
 						 {% endif %}
 						 {% for link in interview.links %}
 						 		(<a href="{{ link.url }}" target="_blank">{{ link.label }}</a>)
