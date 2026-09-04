@@ -1,0 +1,88 @@
+- date: 2021-02-05
+  event: Engine Yard's Steam Powered Podcast
+  eventurl: https://open.spotify.com/show/36R7Ejv9YpgiK8FlNfDaBO
+  title: "A Discussion with Clare Liguori from AWS Container Services"
+  links:
+    - url: https://open.spotify.com/episode/5RStgUxaYqlLFrDCFvmQ43
+      label: episode
+- date: 2021-02-22
+  event: InfoQ Podcast
+  eventurl: https://www.infoq.com/the-infoq-podcast/
+  title: "Clare Liguori on Automating Safe and Hands-Off Deployments at AWS"
+  links:
+    - url: https://www.infoq.com/podcasts/aws-deployments
+      label: episode
+- date: 2021-10-04
+  event: AWS Developers Podcast
+  eventurl: https://soundcloud.com/awsdevelopers
+  title: "DevOps at Amazon with Clare Liguori"
+  links:
+    - url: https://soundcloud.com/awsdevelopers/episode-015-devops-at-amazon-with-clare-liguori
+      label: episode
+- date: 2024-02-16
+  event: AWS Developers Podcast
+  eventurl: https://soundcloud.com/awsdevelopers
+  title: "Diving into Amazon Q Builder with Clare Liguori"
+  links:
+    - url: https://soundcloud.com/awsdevelopers/episode-108-diving-into-amazon-q-builder-with-clare-liguori
+      label: episode
+- date: 2025-07-14
+  event: AWS She Builds
+  eventurl: https://www.twitch.tv/aws/
+  title: "From Code Pipelines to AI Agents - Clare Liguori's Tech Odyssey"
+  youtube: EawDJeJjRd8
+- date: 2025-07-17
+  event: What's New in Data Podcast
+  eventurl: https://www.striim.com/blog/category/podcast/
+  title: "Retrieval as a Tool, Not a Destination – with Clare from AWS"
+  youtube: mDFuNhehIOc
+- date: 2025-08-28
+  event: RedMonk The New Builders Podcast
+  eventurl: https://redmonk.com/videos/tnb-clare-liguori-kiro-ai-spec-driven-software-development/
+  title: "Clare Liguori on Kiro & AI Spec-Driven Software Development"
+  youtube: DmdK89QOV4Y
+- date: 2025-10-23
+  event: Top End Devs - Javascript Jabber Podcast
+  eventurl: https://topenddevs.com/podcasts/javascript-jabber
+  title: "Spec-Driven Development and the Future of AI IDEs with AWS’s Kiro"
+  youtube: gvvIFWLypGAe
+- date: 2025-12-03
+  event: SiliconANGLE theCUBE at reInvent 2025
+  eventurl: https://www.thecube.net/events/aws/reinvent-2025
+  title: Interview with Clare Liguori
+  youtube: 9D4Cw0fGWiA
+- date: 2026-04-02
+  event: The New Stack
+  eventurl: https://thenewstack.io/amazon-aws-mcp-agentic/
+  title: As agentic AI explodes, Amazon doubles down on MCP
+  youtube: pnOIyjGHGU0
+- date: 2026-07-08
+  event: Software Engineering Radio
+  eventurl: https://se-radio.net
+  title: Clare Liguori on the AWS Strands SDK for AI Agents
+  links:
+    - url: https://se-radio.net/2026/07/se-radio-728-clare-liguori-on-aws-strand-sdk-for-ai-agents
+      label: episode
+- date: 2026-07-20
+  event: InfoQ Podcast
+  eventurl: https://www.infoq.com/the-infoq-podcast/
+  title: Strands Agents with Clare Liguori
+  links:
+    - url: https://www.infoq.com/podcasts/strands-agents
+      label: episode
+- date: 2026-08-18
+  event: LinearB Dev Interrupted Podcast
+  eventurl: https://linearb.io/dev-interrupted
+  title: "Agent, skill, or MCP? Which to use and when to use them"
+  links:
+    - url: https://linearb.io/dev-interrupted/podcast/aws-clare-liguori-agent-skill-mcp-architecture
+      label: episode
+    - url: https://www.youtube.com/watch?v=x8_OhVgb4HE
+      label: video
+- date: 2026-08-18
+  event: Techstrong AI Leadership Insights Series
+  eventurl: https://techstrong.tv/videos/ai-leadership-insights
+  title: Stateless MCP Moves AI Agents Toward Enterprise Scale
+  links:
+    - url: https://techstrong.tv/videos/ai-leadership-insights/stateless-mcp-moves-ai-agents-toward-enterprise-scale
+      label: episode

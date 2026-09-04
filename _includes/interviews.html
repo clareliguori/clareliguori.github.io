@@ -1,0 +1,37 @@
+<section id="interviews">
+<div class="container">
+<h3>Interviews and Podcasts</h3>
+  <div class="panel panel-default">
+    <div class="panel-body">
+		{% assign sorted_interviews = (site.data.interviews | sort: 'date') | reverse %}
+		{% for interview in sorted_interviews %}
+			<div class="row">
+				 <div class="col-sm-3 col-md-3 col-lg-3 col-date">
+					 <h5>
+					 	{{ interview.date | date: "%B %e, %Y" }}
+					 </h5>
+				 </div>
+				 <div class="col-sm-9 col-md-9 col-lg-9 col-link">
+					 <h5>
+						 <strong>{{ interview.title }}</strong><br/>
+						 at <a href="{{ interview.eventurl }}" target="_blank">{{ interview.event }}</a>
+						 {% if interview.youtube %}
+								(<a href="https://youtu.be/{{ interview.youtube }}" target="_blank">video</a>)
+						 {% endif %}
+						 {% if interview.slideshare %}
+								(<a href="https://www.slideshare.net/{{ interview.slideshare }}" target="_blank">slides</a>)
+						 {% endif %}
+						 {% if interview.github %}
+								(<a href="https://github.com/{{ interview.github }}" target="_blank">code</a>)
+						 {% endif %}
+						 {% for link in interview.links %}
+						 		(<a href="{{ link.url }}" target="_blank">{{ link.label }}</a>)
+						 {% endfor %}
+					 </h5>
+					</div>
+			</div>
+	    {% endfor %}
+	</div>
+  </div>
+</div>
+</section>
