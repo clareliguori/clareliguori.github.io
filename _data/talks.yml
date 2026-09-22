@@ -102,3 +102,8 @@
   eventurl: https://www.youtube.com/playlist?list=PLJ2a7YWJ3jxk
   title: "Event-driven agents, powered by MCP"
   youtube: nPMbXzJqKmQ
+- date: 2026-09-17
+  event: AGNTCon + MCPCon EU
+  eventurl: https://events.linuxfoundation.org/agntcon-mcpcon-europe/
+  title: "Keynote: Reactive Agents: Your Agent Doesn't Need to Be Always On"
+  youtube: https://youtu.be/hbH2RbUBZQ0?t=2755
